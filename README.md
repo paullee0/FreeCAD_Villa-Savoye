@@ -2,7 +2,7 @@
 Villa Savoye modelled in FreeCAD
 
 
-![alt text 2a](https://forum.freecadweb.org/download/file.php?id=102604)
+![alt text 2a](https://forum.freecad.org/download/file.php?id=102604)
 
 ![alt text 1a](https://forum.freecadweb.org/download/file.php?id=102600)
 
